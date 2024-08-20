@@ -1,4 +1,4 @@
-# tec-nm-tlaxiaco-arqui-compu
+﻿# tec-nm-tlaxiaco-arqui-compu
 
 Repositorio Aquitectura de Computadoras 5BS
 
@@ -16,6 +16,7 @@ Repositorio Aquitectura de Computadoras 5BS
 
 ## Prácticas
 
+## Israel esta aca 
 ### Práctica 1
 
 #### Descripción de la Práctica 1
