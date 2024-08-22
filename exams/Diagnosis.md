@@ -4,6 +4,7 @@
 |--------------------- |----------------|------------|
 |Jaczibeth Cruz Ramirez|  22/08/2024    |  22620233  |
 
+
 ## Instrucciones
 
 Responde las siguientes preguntas con claridad. Cada sección tiene un peso específico, así que distribuye tu tiempo en consecuencia.
