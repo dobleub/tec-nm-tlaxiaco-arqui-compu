@@ -17,6 +17,7 @@ fix (fix:arreglar) -: actualizacion
 
 ## Prácticas
 
+## Israel esta aca 
 ### Práctica 1
 
 #### Descripción de la Práctica 1
